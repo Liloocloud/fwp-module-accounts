@@ -22,5 +22,8 @@
     ],
     "require": {
         "php": ">=7.0.0"
+    },
+    "config": {
+        "vendor-dir": "libs/vendor"
     }
 }
