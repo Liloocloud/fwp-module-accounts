@@ -1,3 +1,14 @@
 <?php
-echo "Hello World!";
 
+namespace Modules\Accounts;
+
+class Init
+{
+
+    function __construct(){
+
+        echo "Account Init";
+
+    }
+
+}
