@@ -1,0 +1,5 @@
+{
+    "require": {
+        "Liloocloud/fwp-module-accounts": "1.x"
+    }
+}
