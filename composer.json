@@ -1,6 +1,6 @@
 {
     "name": "liloo/fwp-module-accounts",
-    "type": "module",
+    "type": "Library",
     "description": "Módulo gestor de conta de usuário do Framework Liloo - PHP 8.0",
     "keywords": [
         "liloo",
