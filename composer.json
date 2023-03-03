@@ -22,7 +22,6 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "liloo/fwp-module-accounts": "^1.0",
         "psr/log": "^2.0 || ^3.0"
     }
 }
